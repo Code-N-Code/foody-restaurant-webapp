@@ -34,7 +34,7 @@ Boot** for the backend and **Angular** for the frontend.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/restaurant-webapp.git
+   git clone https://github.com/Code-N-Code/foody-restaurant-webapp.git
    ```
 2. Navigate to the backend directory:
    ```sh
