@@ -3,7 +3,7 @@
 
 ## 🛠 Task #1
 
-- Update the `UserController` class so requests are routed to this controller at `/user` path.
+- Update the `UserController.java` class so requests are routed to this controller at `/user` path.
 - Add a `GET` mapping at `/hello` and return String `Hello World` from that function.
 
 
