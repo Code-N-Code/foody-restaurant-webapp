@@ -67,8 +67,8 @@ Swagger documentation is available at: [http://localhost:8080/swagger-ui.html](h
 
 ## 🔗 Course Details
 
-Complete Playlist: [McDonald's Official Website](https://www.mcdonalds.com/)
-Channel : [CodeNCode](https://www.youtube.com/@codencode)
+- Complete Playlist: [Foody Backend Project](https://www.mcdonalds.com/)
+- Channel : [CodeNCode](https://www.youtube.com/@codencode)
 
 ---
 
