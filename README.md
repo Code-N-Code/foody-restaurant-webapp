@@ -16,7 +16,7 @@
 
 ## 🔗 Course Details
 
-- Complete Playlist: [Foody Backend Project](https://www.mcdonalds.com/)
+- Complete Playlist: [Foody Backend Project](https://www.youtube.com/playlist?list=PL5DyztRVgtRXELM94Wcb2zOmvE5ycLVGS)
 - Channel : [CodeNCode](https://www.youtube.com/@codencode)
 
 ---
